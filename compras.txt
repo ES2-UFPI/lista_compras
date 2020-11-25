@@ -2,4 +2,6 @@ arroz
 feijao
 macarrao
 farinha
-
+sabao
+detergente 
+bucha
