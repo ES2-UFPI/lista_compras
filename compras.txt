@@ -1,2 +1,5 @@
 arroz
+sabao
+detergente 
+bucha
 
