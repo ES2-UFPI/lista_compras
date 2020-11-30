@@ -5,3 +5,6 @@ farinha
 sabao
 detergente 
 bucha
+sabonete
+desodorante
+pasta de dente
