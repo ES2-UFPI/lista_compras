@@ -8,3 +8,5 @@ bucha
 sabonete
 desodorante
 pasta de dente
+esponja
+escova de dente
