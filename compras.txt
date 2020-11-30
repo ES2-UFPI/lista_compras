@@ -7,3 +7,12 @@ detergente
 bucha
 cuscuz
 batata
+sabonete
+desodorante
+pasta de dente
+esponja
+escova de dente
+shampoo
+condicionador
+desinfetante
+
