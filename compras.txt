@@ -19,3 +19,4 @@ queijo
 leite
 cenoura
 pao
+gelo
