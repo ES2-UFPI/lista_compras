@@ -17,3 +17,5 @@ condicionador
 desinfetante
 queijo
 leite
+cenoura
+pao
