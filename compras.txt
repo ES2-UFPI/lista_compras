@@ -1,2 +1,8 @@
 arroz
 feijão
+leite
+ovos
+leite condensado
+açúcar
+limão
+maracujá
