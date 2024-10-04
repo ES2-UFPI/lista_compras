@@ -11,3 +11,5 @@ cebola
 pimenta do reino
 quiabo
 maxixe
+alface
+pepino
