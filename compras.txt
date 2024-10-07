@@ -16,3 +16,7 @@ maxixe
 alface
 pepino
 leite
+ovo
+papel
+laranja
+batata
