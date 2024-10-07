@@ -20,3 +20,4 @@ ovo
 papel
 laranja
 batata
+sorvete
