@@ -21,3 +21,5 @@ papel
 laranja
 batata
 sorvete
+Cheiro-verde
+Açucar
