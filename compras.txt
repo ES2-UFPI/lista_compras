@@ -17,3 +17,5 @@ montila
 coca
 miojo
 pipoca
+kiwi
+presunto
