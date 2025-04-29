@@ -15,3 +15,5 @@ ovo
 batata doce
 montila
 coca
+miojo
+pipoca
